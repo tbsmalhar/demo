@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>https://www.journeyingtheglobe.com</link>
+  <description>Free web building tutorials</description>
+		<item>
+		    <title>9 Amazing Places To Stay Near Sarakiniko Beach in Milos, Greece</title>
+		    <link>https://www.journeyingtheglobe.com/places-to-stay-near-sarakiniko-beach-in-milos/</link>
+		    <description>9 Amazing Places To Stay Near Sarakiniko Beach in Milos, Greece</description>
+	    </item>
+		<item>
+		    <title>The Ultimate Guide to Greek Island Hopping in Milos, Greece</title>
+		    <link>https://www.journeyingtheglobe.com/greek-island-hopping-in-milos-greece/</link>
+		    <description>The Ultimate Guide to Greek Island Hopping in Milos, Greece</description>
+	    </item>
+		<item>
+		    <title>Paros vs Milos: Which Greek Destination is Better to Visit?</title>
+		    <link>https://www.journeyingtheglobe.com/paros-vs-milos/</link>
+		    <description>Paros vs Milos: Which Greek Destination is Better to Visit?</description>
+	    </item>
+</channel>
+</rss>

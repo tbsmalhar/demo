@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>https://www.journeyingtheglobe.com</link>
+  <description>Free web building tutorials</description>
+		<item>
+		    <title>https://www.journeyingtheglobe.com/why-is-thailand-called-the-land-of-smiles/</title>
+		    <link>https://www.journeyingtheglobe.com/why-is-thailand-called-the-land-of-smiles/</link>
+		    <description>https://www.journeyingtheglobe.com/why-is-thailand-called-the-land-of-smiles/</description>
+	    </item>
+		<item>
+		    <title>https://www.journeyingtheglobe.com/thailand-food-culture/</title>
+		    <link>https://www.journeyingtheglobe.com/thailand-food-culture/</link>
+		    <description>https://www.journeyingtheglobe.com/thailand-food-culture/</description>
+	    </item>
+</channel>
+</rss>
